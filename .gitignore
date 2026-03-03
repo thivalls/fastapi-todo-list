@@ -1,0 +1,15 @@
+# Pastas de cache do Python (Byte-code)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches de bibliotecas e ferramentas
+.pytest_cache/
+.coverage
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais (já que você está usando Poetry)
+.venv/
+venv/
+env/
