@@ -8,6 +8,7 @@
 .coverage
 .mypy_cache/
 .ruff_cache/
+htmlcov/
 
 # Ambientes virtuais (já que você está usando Poetry)
 .venv/
